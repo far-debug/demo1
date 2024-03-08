@@ -1,0 +1,48 @@
+body {
+    font-size: 15pt;
+}
+video{
+  background: red;
+}
+*{
+  background: cyan;
+}
+.Heading{
+  text-align: center;
+  border: 2px solid black;
+  font: bolder;
+  color: rgb(43, 63, 213);
+}
+audio{
+  background: limegreen;
+  border: 1px solid red;
+  color: lime;
+}
+a{
+  text-decoration: none;
+  color: #000;
+  background: white;
+  background-size: 20px;
+  border: 2px solid black;
+}
+.Heading2{
+  text-align: center;
+  display: inline-block;
+  margin: -42px 122px;
+}
+.loveagain{
+  display: block;
+  width: 300px;
+  margin: 20px auto;
+  background: hotpink;
+  border-radius: 14px;
+}
+.loveagainp{
+  width: 180px;
+  margin: 20px auto;
+}
+/*
+.audiocontainer{
+  background: cyan;
+}
+*/
